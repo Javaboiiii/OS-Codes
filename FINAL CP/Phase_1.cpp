@@ -266,7 +266,7 @@ int main()
 {
     read_my_file.open("Input_1_1.txt");
     write_my_file.open("output1.txt");
-6
+
     LOAD();
 
     read_my_file.close();
