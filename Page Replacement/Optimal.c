@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <limits.h>
-
 // Function to find the optimal page to replace
 int findOptimalPage(int pages[], int frame[], int n, int capacity, int index) {
     int res = -1, farthest = index;
