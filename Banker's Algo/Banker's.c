@@ -2,7 +2,6 @@
 
 int main() {
     int n, m, i, j, k;
-
     printf("Enter the number of processes: ");
     scanf("%d", &n);
 
