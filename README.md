@@ -4,7 +4,7 @@
 3.	Implement multi threading for Matrix Operations using Pthreads.
 4.	Implementation of Classical problems (reader writer)  using Threads and Mutex
 5.	Implementation of Classical problems( producer consumer)  using Threads and Mutex
-6.	Implementation of Classical problems (reader writer) using Threads and Semaphore. .(reader writer, producer consumer, dining philosopher)
+6.	Implementation of Classical problems (reader writer) using Threads and Semaphore. .(reader writer, producer consumer, dining philosopher )
 7.	Implementation of Classical problems (producer consumer,) using Threads and Semaphore. 
 8.	Implementation of Classical problems (dining philosopher) using Threads and Semaphore. 
 9.	Write a program to compute the finish time, turnaround time and waiting time for the First come First serve
